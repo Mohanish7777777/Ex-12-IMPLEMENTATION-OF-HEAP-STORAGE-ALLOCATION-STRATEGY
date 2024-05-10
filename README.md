@@ -1,7 +1,7 @@
 # Ex-12-IMPLEMENTATION OF HEAP STORAGE ALLOCATION STRATEGY
 # NAME: Mohanish K
 # REGISTER NUMBER:212222100028
-# Date :24.04.2024
+
 
 # Aim : 
 To write a program to implement heap storage allocation strategy.
